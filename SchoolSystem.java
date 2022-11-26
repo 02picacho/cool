@@ -72,7 +72,7 @@ public class SchoolSystem implements ISignUP {
 
     @Override
     public void print() {
-
+System.out.print("输出：");
         System.out.println(strings);
     }
 
