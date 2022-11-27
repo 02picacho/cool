@@ -14,7 +14,7 @@ public class SchoolSystem implements ISignUP {
             strings += " " + sc.addStudent(plan.get(i));
         }
         sc.print();
-    }//这是将要撤销的注释
+    }
 //注释
     static String[] strs;
     static String strings = "null";
