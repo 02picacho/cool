@@ -15,7 +15,7 @@ public class SchoolSystem implements ISignUP {
         }
         sc.print();
     }
-
+//注释
     static String[] strs;
     static String strings = "null";
 
