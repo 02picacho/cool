@@ -15,7 +15,7 @@ public class SchoolSystem implements ISignUP {
         }
         sc.print();
     }
-//注释
+//注释abababa
     static String[] strs;
     static String strings = "null";
 
@@ -100,10 +100,8 @@ System.out.print("输出：");
         }
 
     }
-}
+}//xiugai
 
-
-
-
+//修改
 
 
